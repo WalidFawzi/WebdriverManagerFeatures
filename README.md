@@ -5,4 +5,5 @@
 *Wait (Implicit & Explicit )\
 *Switch to frames\
 *Selenium locators\
-*Commands
+*Commands\
+*Switch to alerts
